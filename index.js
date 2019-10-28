@@ -20,7 +20,7 @@ function inc(n){
 }
 
 function dec(n){
-  n-=1;
+  var n-=1;
   return n;
 }
 
