@@ -2,16 +2,16 @@ function add(a,b){
   return (a+b);
 }
 
-function substract(a,b){
+function subtract(a,b){
   return (a-b);
 }
 
 function multiply(a,b){
-  retrun (a*b);
+  return (a*b);
 }
 
 function divide (a,b){
-  retrun (a/b);
+  return (a/b);
 }
 
 function inc(n){
